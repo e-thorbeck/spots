@@ -1,0 +1,1427 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4621,31.1532 ]
+    },
+    "properties": {
+    "Number":1,
+    "Name":"Qiantan Park Wood Slanted Ledges",
+    "Category":"Ledge",
+    "Notes":"Weekdays probably better",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.152109,121.466725'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/pudong-wood-ledges-houtan.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.33299,31.15373 ]
+    },
+    "properties": {
+    "Number":2,
+    "Name":"Qibao International Plaza",
+    "Category":"Plaza",
+    "Notes":"Anytime - be respectful",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.151165,121.337251'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Qibao-intl-plaza.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.42631,31.15382 ]
+    },
+    "properties": {
+    "Number":3,
+    "Name":"South Railway Station Plaza",
+    "Category":"Plaza",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.151711,121.430970'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/south-railway-station-ledge.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.33331,31.15428 ]
+    },
+    "properties": {
+    "Number":4,
+    "Name":"Penguin Plaza",
+    "Category":"Plaza",
+    "Notes":"Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.152129,121.337973'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/penguin-plaza-johnny.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.45741,31.17347 ]
+    },
+    "properties": {
+    "Number":5,
+    "Name":"Long White Hubba",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.171430,121.461970'",
+    "Img_Link":"",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.45695,31.17602 ]
+    },
+    "properties": {
+    "Number":6,
+    "Name":"Longteng Road Ledges",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.174382,121.461668'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Longteng-Road-out-ledge.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3819,31.17722 ]
+    },
+    "properties": {
+    "Number":7,
+    "Name":"Hechuan Road Circle Pad + Ledges",
+    "Category":"Manual Pad",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.169900,121.387952'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/hechuan-circle-pad.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.45865,31.18177 ]
+    },
+    "properties": {
+    "Number":8,
+    "Name":"Lower Binjiang",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.179736,121.463315'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/binjiang-smubba.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46769,31.19068 ]
+    },
+    "properties": {
+    "Number":9,
+    "Name":"Binjiang Circle Manny Pad",
+    "Category":"Manual Pad",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/?saddr=Current%%20Location&daddr=31.188543,121.471936' ",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Binjiang-circle-pad.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.48677,31.191 ]
+    },
+    "properties": {
+    "Number":10,
+    "Name":"Mercedes Benz Ledges",
+    "Category":"Ledge",
+    "Notes":"Weekdays probably better, more security now",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.188797,121.492003'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/benz-ledges.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4681,31.1918 ]
+    },
+    "properties": {
+    "Number":11,
+    "Name":"Binjiang 3 stairs and A Frame ledge",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Don't go here with many people, you get kicked out sometimes",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.189589,121.473580",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/binjiang-3.png",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46931,31.19378 ]
+    },
+    "properties": {
+    "Number":12,
+    "Name":"Jiangbin Road Wallies / Up Ledges",
+    "Category":"Wallie / Bank",
+    "Notes":"Weekends but still quick bust",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.193174,121.472668'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Jiangbin-road-up-ledges.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.43332,31.19429 ]
+    },
+    "properties": {
+    "Number":13,
+    "Name":"Xujiahui Rail",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.189589,121.473580",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Xujiahui-Rail.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.41923,31.19744 ]
+    },
+    "properties": {
+    "Number":14,
+    "Name":"Hongqiao Road Rainbow Ledges",
+    "Category":"Ledge",
+    "Notes":"Nights - Quick bust",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.195532,121.423585'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/rainbow-ledges.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44057,31.19763 ]
+    },
+    "properties": {
+    "Number":15,
+    "Name":"South Wanping Road Ledges / Gap to Ledge",
+    "Category":"Ledge",
+    "Notes":"Nights / weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.196129,121.445168'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/South-wanping-road-ledges-e1493856449847.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44629,31.20115 ]
+    },
+    "properties": {
+    "Number":16,
+    "Name":"Zhaojiabang Road Wallie Spot",
+    "Category":"Wallie / Bank",
+    "Notes":"Whenever not crowded, probably nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.199241,121.450660'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Zhaojiabang-wallie-metro.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.43339,31.20388 ]
+    },
+    "properties": {
+    "Number":17,
+    "Name":"Tianping Road Manual Pad",
+    "Category":"Manual Pad",
+    "Notes":"Holidays / Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.199917,121.437790",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Yuqing-Road-manny-e1493856353136.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.48943,31.20442 ]
+    },
+    "properties": {
+    "Number":18,
+    "Name":"Black Ledges",
+    "Category":"Ledge",
+    "Notes":"Evenings",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.202290,121.493448'",
+    "Img_Link":"https://i2.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Black-ledges.png?w=359&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46319,31.2078 ]
+    },
+    "properties": {
+    "Number":19,
+    "Name":"Riyueguang Hubba / Stairs",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Nights",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.205605,121.467822'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/04/Riyueguang-Hubba.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.40101,31.20783 ]
+    },
+    "properties": {
+    "Number":20,
+    "Name":"Hongqiao Park",
+    "Category":"Plaza",
+    "Notes":"Weekdays when not crowded - be polite",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.205749,121.405935'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/hongqiao-park.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4394,31.20944 ]
+    },
+    "properties": {
+    "Number":21,
+    "Name":"Shanghai Library Out Rail",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.218174,121.447527'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/shanghai-library-out-rail-e1494813534234.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44229,31.21223 ]
+    },
+    "properties": {
+    "Number":22,
+    "Name":"Wulumuqi Road Bump to Ledge",
+    "Category":"Ledge",
+    "Notes":"Nights, needs wax though",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.210294,121.446893'",
+    "Img_Link":"",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.43495,31.215 ]
+    },
+    "properties": {
+    "Number":23,
+    "Name":"Wukang Road Bump / Wallride",
+    "Category":"Wallie / Bank",
+    "Notes":"Weekdays",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.213136,121.439556'",
+    "Img_Link":"http://maps.apple.com/maps?q=31.213136,121.439556'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4137,31.21507 ]
+    },
+    "properties": {
+    "Number":24,
+    "Name":"Wuyi Road Long Mellow curve down rail",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.213056,121.417653'",
+    "Img_Link":"https://i1.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Wuyi-Road-down-curve-rail-e1493820999650.jpg?resize=768%2C771&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3809,31.2167 ]
+    },
+    "properties": {
+    "Number":25,
+    "Name":"Weining Road 2 Stair Ledge",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.214832,121.385653'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/04/Weining-road-mall-2-stair-ledge-johnny-photo.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44222,31.21733 ]
+    },
+    "properties": {
+    "Number":26,
+    "Name":"The Center",
+    "Category":"Plaza",
+    "Notes":"The plaza is a bust but the ledge on the sidewalk is still skate-able",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.215365,121.447438",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2019/02/the-centre-min.png",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.48021,31.21831 ]
+    },
+    "properties": {
+    "Number":27,
+    "Name":"Laoximen 10 Stair",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.216208,121.484606'",
+    "Img_Link":"img src = 'https://i2.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Laoximen-10.png?w=293&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4354,31.21852 ]
+    },
+    "properties": {
+    "Number":28,
+    "Name":"Huashan Road Hubba",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.216723,121.439885'",
+    "Img_Link":"https://i0.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Huashan-Hubba.png?w=357&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46364,31.21981 ]
+    },
+    "properties": {
+    "Number":29,
+    "Name":"Fuxing Park Ledge",
+    "Category":"Plaza",
+    "Notes":"Almost never - big bust now",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.217878,121.468337'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/fuxing-park-ledge.png' alt = 'Image not displayed' height = '150' width - '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44193,31.22 ]
+    },
+    "properties": {
+    "Number":30,
+    "Name":"Huashan / Julu Road Stairs + Wallie",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.218198,121.446458'",
+    "Img_Link":"",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44323,31.22033 ]
+    },
+    "properties": {
+    "Number":31,
+    "Name":"Julu Road Bump to Rail",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Nights & Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.218222,121.447647'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/2017-04-28-15.24.19.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4505,31.2204 ]
+    },
+    "properties": {
+    "Number":32,
+    "Name":"Xiangyang Road Wallride Spot",
+    "Category":"Wallie / Bank",
+    "Notes":"Nights only",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.218453,121.455260'",
+    "Img_Link":"http://maps.apple.com/maps?q=31.218453,121.455260'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46051,31.22103 ]
+    },
+    "properties": {
+    "Number":33,
+    "Name":"Nike Stairs / Manual Pads",
+    "Category":"Manual Pad",
+    "Notes":"Nights only",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.219195,121.465074'",
+    "Img_Link":"",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53866,31.22191 ]
+    },
+    "properties": {
+    "Number":34,
+    "Name":"Science and Tech Plaza",
+    "Category":"Plaza",
+    "Notes":"Anytime",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.219724,121.542920'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Science-and-tech.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50655,31.22217 ]
+    },
+    "properties": {
+    "Number":35,
+    "Name":"Black Banks",
+    "Category":"Wallie / Bank",
+    "Notes":"Rumored to be gone now",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.220208,121.510935'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/black-banks.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44093,31.22449 ]
+    },
+    "properties": {
+    "Number":36,
+    "Name":"Jing'An Manual Pads",
+    "Category":"Manual Pad",
+    "Notes":"Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.222468,121.445484'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/jing-an-manny-pads.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46005,31.22508 ]
+    },
+    "properties": {
+    "Number":37,
+    "Name":"Julu Road Wallrides",
+    "Category":"Wallie / Bank",
+    "Notes":"Weekdays",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.223236,121.465255'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Julu-158-Wallrides.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46466,31.22539 ]
+    },
+    "properties": {
+    "Number":38,
+    "Name":"Bamboo Ledges",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.223100,121.469517'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/bamboo-ledges.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53237,31.2258 ]
+    },
+    "properties": {
+    "Number":39,
+    "Name":"Century Avenue Ledge to bank",
+    "Category":"Ledge",
+    "Notes":"Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.252462,121.469570'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Pudong-ledge-to-bank.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53046,31.22611 ]
+    },
+    "properties": {
+    "Number":40,
+    "Name":"Century Ave Stairs to Bank",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Weekends but still quick kickout",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.223840,121.534966'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Century-Ave-gap-to-bank.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54775,31.22637 ]
+    },
+    "properties": {
+    "Number":41,
+    "Name":"Pudong Black Ledge",
+    "Category":"Ledge",
+    "Notes":"By a restaurant so not during meal times",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.224214,121.552202'",
+    "Img_Link":"http://maps.apple.com/maps?q=31.224214,121.552202'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50727,31.22689 ]
+    },
+    "properties": {
+    "Number":42,
+    "Name":"Weird Wood Ledge Spot",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.224265,121.511458'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/04/Weird-wood-ledges-johnny-photo-e1493004836175.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.47405,31.22712 ]
+    },
+    "properties": {
+    "Number":43,
+    "Name":"Glass Drop-in",
+    "Category":"Wallie / Bank",
+    "Notes":"Nights, quick kickout",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.252462,121.469570'",
+    "Img_Link":"http://maps.apple.com/maps?q=31.252462,121.469570'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52832,31.22728 ]
+    },
+    "properties": {
+    "Number":44,
+    "Name":"Century Avenue Drop Ledges",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.225157,121.532771'",
+    "Img_Link":"https://i2.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Century-ave-drop-ledges-johnny-photo.png?w=360&ssl=1' alt = 'Image not displayed' height = '150' width = '160'\").addTo(map);",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.52962,31.22732 ]
+    },
+    "properties": {
+    "Number":45,
+    "Name":"Century Avenue Metal Benches",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.224983,121.534045'",
+    "Img_Link":"https://i2.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Century-Ave-benches-johnny-photo.png?w=357&ssl=1",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44825,31.22876 ]
+    },
+    "properties": {
+    "Number":46,
+    "Name":"West Nanjing Road Out Rail",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.226866,121.452867'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/NJ-Xikang-road-out-rail.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.44929,31.22878 ]
+    },
+    "properties": {
+    "Number":47,
+    "Name":"West Nanjing Road Wood Benches",
+    "Category":"Ledge",
+    "Notes":"Nights only",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.226822,121.453237'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/west-nj-wood-ledges.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.47366,31.22896 ]
+    },
+    "properties": {
+    "Number":48,
+    "Name":"LP",
+    "Category":"Plaza",
+    "Notes":"Officially a bust",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.227947,121.478262",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/LP_andrea.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3913,31.23006 ]
+    },
+    "properties": {
+    "Number":49,
+    "Name":"Joy City Down Manual Pad",
+    "Category":"Manual Pad",
+    "Notes":"Weekdays",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.228231,121.396057'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Weining-road-mall-manny.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.39016,31.23024 ]
+    },
+    "properties": {
+    "Number":50,
+    "Name":"Joy City Ledges",
+    "Category":"Ledge",
+    "Notes":"Weekdays",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.228467,121.395010'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/04/Joycity_ledges.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.409,31.2303 ]
+    },
+    "properties": {
+    "Number":51,
+    "Name":"Jinshajiang Road Manny Pad",
+    "Category":"Manual Pad",
+    "Notes":"Anytime",
+    "Apple_Maps":"/br>",
+    "Img_Link":"http://maps.apple.com/maps?q=31.229158,121.413108'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.47554,31.23177 ]
+    },
+    "properties": {
+    "Number":52,
+    "Name":"Guangxi + Yan An Road Ledge Accross Gap",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.229869,121.480159'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Guangxi-N-S-Road-Ledge-Accross-gap.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46007,31.23305 ]
+    },
+    "properties": {
+    "Number":53,
+    "Name":"West NJ Road Banks to Ledges",
+    "Category":"Wallie / Bank",
+    "Notes":"Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.231063,121.464241'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/west-nj-bank-to-ledge.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.47169,31.23416 ]
+    },
+    "properties": {
+    "Number":54,
+    "Name":"Raffles City Wallride",
+    "Category":"Wallie / Bank",
+    "Notes":"Weekdays / Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.232083,121.476230'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Raffles-City-wallride.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53137,31.23623 ]
+    },
+    "properties": {
+    "Number":55,
+    "Name":"Zhangyang Road Gaps / Ledges",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.243267,121.440636'",
+    "Img_Link":"https://i0.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Yuanshen-Stadium-Gap-Ledges.png?w=292&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.47039,31.23633 ]
+    },
+    "properties": {
+    "Number":56,
+    "Name":"Walking street gap to ledge",
+    "Category":"Ledge",
+    "Notes":"Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.234612,121.474734'",
+    "Img_Link":"https://i0.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Pedestrian-Street-gap-to-ledge-2.png?resize=356%2C352&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.49243,31.237 ]
+    },
+    "properties": {
+    "Number":57,
+    "Name":"Pudong Binjiang Banks + Ledges",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.234657,121.497349'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/2017-05-13-17.19.31-e1495444707415.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46061,31.23788 ]
+    },
+    "properties": {
+    "Number":58,
+    "Name":"Jing'An Sculpture Park",
+    "Category":"Plaza",
+    "Notes":"Quick bust anytime",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.235977,121.464999'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Jing-An-Sculpture-Park.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50147,31.241 ]
+    },
+    "properties": {
+    "Number":59,
+    "Name":"Wedding Ledges",
+    "Category":"Ledge",
+    "Notes":"Weekdays but still quick bust",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.239020,121.505761'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/04/Wedding-ledges.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.45293,31.24227 ]
+    },
+    "properties": {
+    "Number":60,
+    "Name":"Hengfeng Road Bank",
+    "Category":"Wallie / Bank",
+    "Notes":"Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.241010,121.457290'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Hengfeng-Road-Bank-e1493856600247.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.45443,31.24271 ]
+    },
+    "properties": {
+    "Number":61,
+    "Name":"Hanzhong Road Ledges",
+    "Category":"Ledge",
+    "Notes":"Evenings",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.242041,121.457975'",
+    "Img_Link":"https://i2.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Hanzhong-Road-Curve-ledges-johnny-photo-e1493004913409.png?w=355&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.42429,31.23014 ]
+    },
+    "properties": {
+    "Number":62,
+    "Name":"China Mobile Rail",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Evenings / Weekends",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.243267,121.440636'",
+    "Img_Link":"https://i1.wp.com/shanghaispots.com/wp-content/uploads/2017/04/China-mobile-rail-e1492570783348.png?w=358&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.48218,31.24573 ]
+    },
+    "properties": {
+    "Number":63,
+    "Name":"Louvre Triangle Ledge",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.243822, 121.487093'",
+    "Img_Link":"",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.45208,31.25353 ]
+    },
+    "properties": {
+    "Number":64,
+    "Name":"Railway Station North Plaza",
+    "Category":"Plaza",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.250651,121.456708'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Railway-station-north-plaza-e1493857441431.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.43795,31.25491 ]
+    },
+    "properties": {
+    "Number":65,
+    "Name":"Zhongtan Road Ledges",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"a href='http://maps.apple.com/maps?q=31.253186,121.442407'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/zhongtan-road-ledge-2.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46443,31.25577 ]
+    },
+    "properties": {
+    "Number":66,
+    "Name":"Dogshit Ledges",
+    "Category":"Plaza",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.254077,121.469004'",
+    "Img_Link":"img src= 'https://i2.wp.com/shanghaispots.com/wp-content/uploads/2017/04/Dog-shit-ledges-johnny-photo.png?w=354&ssl=1' alt='Image not displayed' height='150' width='160'\").addTo(map);",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.46566,31.2559 ]
+    },
+    "properties": {
+    "Number":67,
+    "Name":"Zhongxing Road Out Ledges",
+    "Category":"Stairs / Rail / Hubba",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.253820,121.469873'",
+    "Img_Link":"https://i2.wp.com/shanghaispots.com/wp-content/uploads/2017/04/image27-e1493781186618.png?w=356&ssl=1' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#BE64f2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50331,31.30489 ]
+    },
+    "properties": {
+    "Number":68,
+    "Name":"Daxue Road Wood Structure",
+    "Category":"Manual Pad",
+    "Notes":"Weekdays are better",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.302809,121.507469'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/daxue-road-wood.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50429,31.30584 ]
+    },
+    "properties": {
+    "Number":69,
+    "Name":"Daxue Road Ledges",
+    "Category":"Ledge",
+    "Notes":"Ok most of the time",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.303866,121.508689'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/Johnny-daxue-road-tile-ledge.png' alt =' Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.3881,31.3176 ]
+    },
+    "properties": {
+    "Number":70,
+    "Name":"Shanghai University",
+    "Category":"Plaza",
+    "Notes":"Weekends but be careful, got chased out last time",
+    "Apple_Maps":"http://maps.apple.com/?saddr=Current%%20Location&daddr=31.316277,121.392317' ",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/2017-05-06-12.16.27.jpg' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.49678,31.37651 ]
+    },
+    "properties": {
+    "Number":71,
+    "Name":"Songbin Road Plaza",
+    "Category":"Plaza",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.374289,121.501141'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/04/Songbin-road-smubbas.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.45017,31.2499 ]
+    },
+    "properties": {
+    "Number":72,
+    "Name":"Railway Station Plaza",
+    "Category":"Plaza",
+    "Notes":"Anytime",
+    "Apple_Maps":"/br>",
+    "Img_Link":"http://maps.apple.com/maps?q=31.249431,121.453574'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#A80F3F"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.453,31.1875 ]
+    },
+    "properties": {
+    "Number":73,
+    "Name":"Hooters Ledges",
+    "Category":"Ledge",
+    "Notes":"Quick bust",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.185679,121.457216'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/04/Hooters-ledges-johnny-photo-e1493825512202.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.47888,31.23892 ]
+    },
+    "properties": {
+    "Number":74,
+    "Name":"East Nanjing Road Ledges",
+    "Category":"Ledge",
+    "Notes":"Nights",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.237301,121.484140'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/05/East-NJ-Road-Ledges.png' alt = 'Image not displayed' height = '150' width = '160'",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.40625,31.22415 ]
+    },
+    "properties": {
+    "Number":75,
+    "Name":"Suzhou Creekside Curvy White Ledges",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.222828, 121.413474'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2018/05/2018-04-28-16.46.32-e1525678035620.jpg",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.54606,31.23074 ]
+    },
+    "properties": {
+    "Number":76,
+    "Name":"Yanggao Zhong Lu Banks",
+    "Category":"Wallie / Bank",
+    "Notes":"Anytime",
+    "Apple_Maps":"/br>",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2019/02/4921549244580_.pic_.jpg",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.53571,31.22358 ]
+    },
+    "properties": {
+    "Number":77,
+    "Name":"Century Avenue Manny gap manny",
+    "Category":"Manual Pad",
+    "Notes":"Anytime",
+    "Apple_Maps":"/br>",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2017/11/century-ave-manny-gap-manny.png",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#f47542"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.50669,31.23719 ]
+    },
+    "properties": {
+    "Number":78,
+    "Name":"Dongchang Road ledge & banks",
+    "Category":"Wallie / Bank",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.23719,121.50669'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2019/06/dongchang-banks.jpeg",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#045A8D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.35434,31.23016 ]
+    },
+    "properties": {
+    "Number":79,
+    "Name":"Linkong Park Tranny + Ledge",
+    "Category":"Ledge",
+    "Notes":"Anytime",
+    "Apple_Maps":"http://maps.apple.com/maps?q=31.23016,121.35434'",
+    "Img_Link":"https://shanghaispots.com/wp-content/uploads/2020/01/8701578192319_.pic_.jpg",
+    "Width":150,
+    "Height":160,
+    "HexColor":"#02603c"
+    }
+  }
+]
+}
